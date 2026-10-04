@@ -1,4 +1,4 @@
-Day 02 — Services, Tags & Maven Build
+Day 01 October — Services, Tags & Maven Build
 Ansible — Install & Enable Nginx
 ---
 - name: Install and start Nginx on Sohel
